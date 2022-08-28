@@ -1,0 +1,36 @@
+{
+    "ownerNumber": "6281248009076@s.whatsapp.net", 
+    "ownerName": "kina Official", 
+    "botName": "KINABOT-STORE",
+    "footer": "© BOTMD | 2022", 
+    "sessionName": "session", 
+    "pathimg": "./media/logo.jpg", 
+    "pathqris": "./media/qris.jpg",
+    "group": "https://chat.whatsapp.com/IyrxJb2Ktk6EXllKgZ9gDr",
+    "yootube": "https://youtube.com/channel/UC1mTiqbQVi81v0-pucpqgwQ",
+     
+    "QrisAllPay": "https://telegra.ph/file/d015def9028eb1c0a156b.jpg",
+    "textBarisDonate1": "Dana : 0896-2965-0892",
+    "textBarisDonate2": "Ovo : 0857-8900-4732",
+    "textBarisDonate3": "Gopay : 0896-2965-0892",
+    "textBarisDonate4": "Pulsa : 0896-2965-0891",
+  
+    "ButtonTextMenu1": "Youtube",
+    "ButtonTextMenu2": "Rest Api",
+    "quickReplyButton3": "Rules",
+    "quickReplyButton4": "Donasi",
+    "quickReplyButton5": "Dashboard",
+  
+    "ButtonMenuLink1": "https://youtube.com/channel/UCLd-bhT8Dqq9PjGc6bWUVyg",
+    "ButtonMenuLink2": "https://api-lexxy-official.herokuapp.com",
+    "displayTextMenu3": "rules",
+    "displayTextMenu4": "donasi",
+    "displayTextMenu5": "dashboard",
+    "limitCount": 100,
+    "limitGame": 35,
+    "gamewaktu": 90,
+    "sticker": {
+        "packname": "© Store",
+        "author": "Lexxy Official"
+    }
+}
